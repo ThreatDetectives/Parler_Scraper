@@ -6,6 +6,12 @@ authors = ["Hexx King <hexxking13@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+bs4 = "^0.0.1"
+requests = "^2.25.1"
+jupyterlab = "^3.0.16"
+prettyprint = "^0.1.5"
+numpy = "^1.21.0"
+pandas = "^1.2.5"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
