@@ -54,5 +54,6 @@
   - Save it!
   - Drag the file to the `parler_dataframes` folder
   - Once we are ready to incorporate this new data, I will copy over the whole folder to the repo where the model is being trained at. 
+  - When you finish with a file, please ACP your work so that I can test the csv file to make sure it works with Pandas
 
 # Thank you, Ryan!! Let me know if you have any questions!
